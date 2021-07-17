@@ -42,6 +42,7 @@
    * [Pandas](#pandas)
    * [Algorithms in Python](#algorithms-in-python)
    * [Practice Python](#practice-python)
+   * [Python For Datascience](#practice-python)
 * [Calculus](#calculus)
 * [Linear Algebra](#linear-algebra)
 * [Algorithms in Python](#algorithms-in-python)
@@ -63,6 +64,14 @@
 <p align="center">
     <img src="/images/py.png" alt="py">
 </p>
+
+* **Complete Python Developer in 2021: Zero to Mastery** [Course] (https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+
+* **100 Days of Code - The Complete Python Pro Bootcamp for 2021** [Course] (https://www.udemy.com/course/100-days-of-code/)
+ 
+* **Learn Python Programming Masterclass** [Course] (https://www.udemy.com/course/python-the-complete-python-developer-course/)
+
+* **CampusX : 100 Days of Python** [Course] (https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4)
 
 * **Python 3 tutorial by Programiz** [Here](https://www.programiz.com/python-programming/tutorial)
 
@@ -110,6 +119,12 @@
 
 * [Project Euler](https://projecteuler.net/)
 
+## PYTHON FOR DATASCIENCE
+
+* **2021 Python for Machine Learning & Data Science Masterclass** [Course] (https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
+
+* **Ultimate Python Bootcamp For Data Science & Machine Learning** [Course] (https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/)
+
 ## CALCULUS
 
 * **Essence of Calculus** [3Blue1Brown PlayList](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
@@ -156,6 +171,9 @@
 <p align="center">
     <img src="/images/ml.jpg" alt="ml">
 </p>
+
+* **100 Days of Machine Learning: CampusX** [Here]
+(https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 
 * **Machine Learning: An Algorithmic Perspective** [Here](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20%282nd%20ed.%29%20%5BMarsland%202014-10-08%5D.pdf)
 
